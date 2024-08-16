@@ -58,7 +58,7 @@ public class MergeSortedArrays {
         List<Integer> array2 = Arrays.asList(2, 4, 6, 8);
 
         List<Integer> mergedArrays = mergeArrays(array1, array2);
-        System.out.println(mergedArrays);
+        System.out.println(mergedArrays); // Output: [1, 2, 3, 4, 5, 6, 7, 8]
 
 
         // Error Output
